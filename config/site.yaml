@@ -1,8 +1,8 @@
-title: "Kener"
+title: "Navitools Status"
 home: "/"
 logo: "/logo.png"
 github:
-    owner: "rajnandan1"
+    owner: "navitools"
     repo: "kener"
     incidentSince: 48
 metaTags:
@@ -20,13 +20,11 @@ metaTags:
     twitter:title: "Kener: Open-Source and Modern looking Node.js Status Page for Effortless Incident Management"
     twitter:description: "Kener: Open-source Node.js status page tool, designed to make service monitoring and incident handling a breeze. It offers a sleek and user-friendly interface that simplifies tracking service outages and improves how we communicate during incidents. And the best part? Kener integrates seamlessly with GitHub, making incident management a team effort—making it easier for us to track and fix issues together in a collaborative and friendly environment."
 nav:
-    - name: "Documentation"
-      url: "/docs"
-    - name: "Github"
-      url: "https://github.com/rajnandan1/kener"
+    - name: "Navitools"
+      url: "https://navitools.com"
 hero:
-    title: Kener is a Open-Source Status Page System
-    subtitle: Let your users know what's going on.
+    title: Navitools status
+    subtitle: Monitor the status of all Navitools services
 footerHTML: |
     Made using 
     <a href="https://github.com/rajnandan1/kener" target="_blank" rel="noreferrer" class="font-medium underline underline-offset-4">

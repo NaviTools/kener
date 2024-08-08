@@ -1,0 +1,28 @@
+- name: Navitools
+  description: Pagina principal de Navitools
+  tag: "navitools"
+  image: "/navitools.png"
+  api:
+    method: GET
+    url: https://navitools.com/api/health
+- name: Content
+  description: Strapi
+  tag: "admin"
+  api:
+    method: GET
+    url: https://admin.navitools.com/_health
+  image: "/strapi.png"
+- name: Hub
+  description: Central hub for managing users
+  tag: "admin"
+  image: "/navitools.png"
+  api:
+    method: GET
+    url: https://hub.navitools.com/health
+- name: Analytics
+  description: Analytics provided by Umami
+  tag: "admin"
+  image: "/umami.png"
+  api:
+    method: GET
+    url: https://analytics.navitools.com/api/heartbeat
