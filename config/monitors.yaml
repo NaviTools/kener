@@ -7,7 +7,7 @@
     url: https://navitools.com/api/health
 - name: Content
   description: Strapi
-  tag: "admin"
+  tag: "strapi"
   api:
     method: GET
     url: https://admin.navitools.com/_health
@@ -21,7 +21,7 @@
     url: https://hub.navitools.com/health
 - name: Analytics
   description: Analytics provided by Umami
-  tag: "admin"
+  tag: "analytics"
   image: "/umami.png"
   api:
     method: GET
